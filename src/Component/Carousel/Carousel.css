@@ -1,0 +1,20 @@
+.slick-prev{
+    left:0 !important;
+    position:absolute;
+    z-index: 100;
+    width:41px ;
+    height:72px ;
+    background-color: rgba(255, 255, 255, 0.463);
+}
+.slick-next{
+    right: 0 !important;
+    position:absolute;
+    z-index: 100;
+    width:41px ;
+    height:72px ;
+    background-color: rgba(255, 255, 255, 0.463);
+
+}
+.carousel img:hover{
+    cursor: pointer;
+}
